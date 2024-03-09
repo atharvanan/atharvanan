@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" height="450"/>
 </div>
-.
+
 ---
 
 <u>:woman_technologist: About Me :</u>
